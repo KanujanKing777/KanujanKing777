@@ -3,7 +3,7 @@ Hi, I'm **Kanu**! Welcome to my GitHub profile!
 
 - 👀 **Interests:** Programming, Robotics, Space
 - 🌱 **Currently Learning:** Python
-- 💞️ **Collaborating on:** My project [Conspiracy World](#)
+- 💞️ **Collaborating on:** My project [Conspiracy World](https://github.com/KanujanKing777/TheConspiracyWorld)
 - 😄 **Pronouns:** TypeX
 - ⚡ **Fun Fact:** I’m only 17!
 
@@ -32,9 +32,8 @@ Here are some languages, frameworks, and tools I use:
 # 🌟 Featured Projects
 Here are some projects I’m proud of:
 
-- **[Conspiracy World](#)** - My latest project where users publish and analyze conspiracy theories, fostering a scientific community.
-- **[Sample Project 1](#)** - A brief description of a cool project.
-- **[Sample Project 2](#)** - Another interesting project.
+- **[Conspiracy World](https://github.com/KanujanKing777/TheConspiracyWorld)** - My latest project where users publish and analyze conspiracy theories, fostering a scientific community.
+- **[HiQ](https://github.com/KanujanKing777/HiQ)** - An Ai powered learning system for students
 
 ---
 
