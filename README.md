@@ -1,17 +1,17 @@
-# About me
-👋 Hi, I’m Kanu
+# 👋 About Me
+Hi, I'm **Kanu**! Welcome to my GitHub profile!
 
-👀 I’m interested in Programming, Robotics, Space
+- 👀 **Interests:** Programming, Robotics, Space
+- 🌱 **Currently Learning:** Python
+- 💞️ **Collaborating on:** My project [Conspiracy World](#)
+- 😄 **Pronouns:** TypeX
+- ⚡ **Fun Fact:** I’m only 17!
 
-🌱 I’m currently learning Python
+---
 
-💞️ I’m looking to collaborate on my project Conspiracy World
+# 🛠️ Skills & Technologies
+Here are some languages, frameworks, and tools I use:
 
-😄 Pronouns: TypeX
-
-⚡ Fun fact: I am just 17
-
-# I Know
 ![C](https://img.shields.io/badge/language-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python&logoColor=white)
@@ -21,6 +21,28 @@
 ![Flutter](https://img.shields.io/badge/framework-Flutter-%2302569B.svg?logo=flutter&logoColor=white)
 ![HTML](https://img.shields.io/badge/markup-HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/styling-CSS-%231572B6.svg?logo=css3&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![Kanujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanujanKing777&show_icons=true&theme=radical)
+
+---
+
+# 🌟 Featured Projects
+Here are some projects I’m proud of:
+
+- **[Conspiracy World](#)** - My latest project where users publish and analyze conspiracy theories, fostering a scientific community.
+- **[Sample Project 1](#)** - A brief description of a cool project.
+- **[Sample Project 2](#)** - Another interesting project.
+
+---
+
+# 📫 Contact Me
+- **LinkedIn**: [Kanujan's LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kanujan-piragadeesh-ceo/))  
+- **Email**: [kanujan@example.com](mailto:kanujanpiragadeesh@gmail.com)
+
+Feel free to reach out if you want to collaborate, discuss ideas, or just say hello! 😊
 
 <!---
 KanujanKing777/KanujanKing777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
