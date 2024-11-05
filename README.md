@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m Kanu
 - 👀 I’m interested in Programming, Robotics, Space
 - 🌱 I’m currently learning Python
