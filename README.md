@@ -38,7 +38,7 @@ Here are some projects I’m proud of:
 ---
 
 # 📫 Contact Me
-- **LinkedIn**: [Kanujan's LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kanujan-piragadeesh-ceo/))  
+- **LinkedIn**: [Kanujan's LinkedIn](https://www.linkedin.com/in/kanujan-piragadeesh/)
 - **Email**: [kanujan@example.com](mailto:kanujanpiragadeesh@gmail.com)
 
 Feel free to reach out if you want to collaborate, discuss ideas, or just say hello! 😊
