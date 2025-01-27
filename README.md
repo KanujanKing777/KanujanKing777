@@ -1,6 +1,4 @@
 # 👋 About Me
-Hi, I'm **Kanu**! Welcome to my GitHub profile!
-
 - 👀 **Interests:** Programming, Robotics, Space
 - 🌱 **Currently Learning:** Python
 - 💞️ **Collaborating on:** My project [Conspiracy World](https://github.com/KanujanKing777/TheConspiracyWorld)
@@ -11,7 +9,6 @@ Hi, I'm **Kanu**! Welcome to my GitHub profile!
 
 # 🛠️ Skills & Technologies
 Here are some languages, frameworks, and tools I use:
-
 ![C](https://img.shields.io/badge/language-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python&logoColor=white)
