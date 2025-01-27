@@ -34,6 +34,7 @@ Here are some projects I’m proud of:
 
 - **[Conspiracy World](https://github.com/KanujanKing777/TheConspiracyWorld)** - My latest project where users publish and analyze conspiracy theories, fostering a scientific community.
 - **[HiQ](https://github.com/KanujanKing777/HiQ)** - An Ai powered learning system for students
+- **[JHC Sports](https://github.com/KanujanKing777/JHCSportsApp)** - A mobile App to digitalize School events
 
 ---
 
