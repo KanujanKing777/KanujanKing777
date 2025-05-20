@@ -5,7 +5,7 @@
 - 💞️ **Collaborating on:** My project [Conspiracy World](https://github.com/KanujanKing777/TheConspiracyWorld)
 - 😄 **Pronouns:** TypeX
 - ⚡ **Fun Fact:** I’m only 17!
-- ☕️ **Support me:** [Buy me a Coffee](https://buymeacoffee.com/kanujan)
+- 💛 **Support me:** [Buy me a Coffee](https://buymeacoffee.com/kanujan)
 ---
 
 # 🛠️ Skills & Technologies
